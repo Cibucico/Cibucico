@@ -25,33 +25,54 @@ Welcome to my GitHub! I'm Sibusiso Skhosana, a Computer Science Graduate. When I
 
 - <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  !Python
-  !Java
-  !
-  !C++
-  !R (Statistics)
-  !C#
-- 🌐 &nbsp;
-  !HTML5
-  !CSS
-  !JavaScript
-  !Bootstrap
-  !Node.js
-  !React
-  !
-- 🛢 &nbsp;
-  !MySQL
-  !MongoDB
-  !Postgresql
-- ⚙️ &nbsp;
-  !Git
-  !GitHub
-  !Markdown
-- 🔧 &nbsp;
-  !Visual Studio Code
-  !RStudio
-  !Eclipse
+
+### 💻 Programming Languages
+- Python
+- Java
+- C++
+- R (Statistics)
+- C#
+
+### 🌐 Frontend Technologies
+- HTML5
+- CSS
+- JavaScript
+- Bootstrap
+- Node.js
+- React
+
+### 🛢 Databases
+- MySQL
+- MongoDB
+- PostgreSQL
+
+### ⚙️ Version Control & Tools
+- Git
+- GitHub
+- Markdown
+
+### 🔧 Development Environments
+- Visual Studio Code
+- RStudio
+- Eclipse
+
+### 🛠 Automation Technologies
+- Automation Anywhere
+- Microsoft Power Apps
+
+### 🚀 Project-Specific Technologies
+- Sales Tracking Automation Bot
+- Doorbell Notification System
+- Clothing Store Application
+- Travelling App
+- Flask API for Books and Music
+
+## Installation
+Instructions for setting up the project locally. For example:
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+
 
 <br/>
 
