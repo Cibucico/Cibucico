@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm Sibusiso Skhosana, a Computer Science Graduate. When I
 ### 🛠 Interested in:
 - Desktop, mobile, Backend, Iot, RPA, AWS/AZure, CyberSecurity.
 
-- <h3> 🛠 &nbsp;Tech Stack</h3>
+### Tech Stack<
 
 
 ### 💻 Programming Languages
@@ -49,7 +49,6 @@ Welcome to my GitHub! I'm Sibusiso Skhosana, a Computer Science Graduate. When I
 ### ⚙️ Version Control & Tools
 - Git
 - GitHub
-- Markdown
 
 ### 🔧 Development Environments
 - Visual Studio Code
@@ -59,6 +58,7 @@ Welcome to my GitHub! I'm Sibusiso Skhosana, a Computer Science Graduate. When I
 ### 🛠 Automation Technologies
 - Automation Anywhere
 - Microsoft Power Apps
+- -UiPath
 
 ### 🚀 Project-Specific Technologies
 - Sales Tracking Automation Bot
@@ -67,11 +67,7 @@ Welcome to my GitHub! I'm Sibusiso Skhosana, a Computer Science Graduate. When I
 - Travelling App
 - Flask API for Books and Music
 
-## Installation
-Instructions for setting up the project locally. For example:
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+
 
 
 <br/>
