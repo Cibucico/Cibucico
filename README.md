@@ -11,9 +11,9 @@ Welcome to my GitHub! I'm Sibusiso Skhosana, a Computer Science Graduate. When I
 ### 😍 What i like to do:
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
-### 💡 Goals for 2020:
+### 💡 Goals for 2024:
 - Finish setting up my Github Profile so i can display my skills
-- Be more proficient in JavaScript,TypeScript and React
+- Be more proficient in Python,JavaScript,TypeScript and React
 - Become skilled in Java, kotlin
 - Grow as a person mentally, physically and spriritually
 
@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm Sibusiso Skhosana, a Computer Science Graduate. When I
 ### 🛠 Interested in:
 - Desktop, mobile, Backend, Iot, RPA, AWS/AZure, CyberSecurity.
 
-### Tech Stack<
+### Tech Stack
 
 
 ### 💻 Programming Languages
@@ -32,6 +32,7 @@ Welcome to my GitHub! I'm Sibusiso Skhosana, a Computer Science Graduate. When I
 - C++
 - R (Statistics)
 - C#
+  
 
 ### 🌐 Frontend Technologies
 - HTML5
@@ -58,14 +59,9 @@ Welcome to my GitHub! I'm Sibusiso Skhosana, a Computer Science Graduate. When I
 ### 🛠 Automation Technologies
 - Automation Anywhere
 - Microsoft Power Apps
-- -UiPath
+- UiPath
 
-### 🚀 Project-Specific Technologies
-- Sales Tracking Automation Bot
-- Doorbell Notification System
-- Clothing Store Application
-- Travelling App
-- Flask API for Books and Music
+
 
 
 
